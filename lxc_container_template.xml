@@ -16,7 +16,7 @@ Please note that keepalived is not installed by default
 **Username:** admin
 **Password:** adguardhome</Overview>
   <Category>Tools:</Category>
-  <WebUI>http://[IP]:80</WebUI>
+  <WebUI>http://[IP]:3000</WebUI>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/adguardhome.png</Icon>
   <DonateText>If you like my work (or not) please </DonateText>
   <DonateLink>https://payme.now/pls</DonateLink>
